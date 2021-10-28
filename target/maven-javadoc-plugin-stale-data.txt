@@ -1,0 +1,47 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'16'
+-sourcepath
+'D:/duili/Documents/NetBeansProjects/POOP6ide/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/duili/Documents/NetBeansProjects/POOP6ide/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'POOP6ide 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'POOP6ide 1.0-SNAPSHOT API'
+'D:/duili/Documents/NetBeansProjects/POOP6ide/src/main/java/Main.java'
+D:\duili\Documents\NetBeansProjects\POOP6ide\src\main\java\Main.java = 1635392536493
+D:\duili\Documents\NetBeansProjects\POOP6ide\src\main\java = 1635390887665
+D:\duili\Documents\NetBeansProjects\POOP6ide\target\site\apidocs\allclasses-index.html = 1635397174909
+D:\duili\Documents\NetBeansProjects\POOP6ide\target\site\apidocs\allpackages-index.html = 1635397174914
+D:\duili\Documents\NetBeansProjects\POOP6ide\target\site\apidocs\element-list = 1635397174841
+D:\duili\Documents\NetBeansProjects\POOP6ide\target\site\apidocs\help-doc.html = 1635397174964
+D:\duili\Documents\NetBeansProjects\POOP6ide\target\site\apidocs\index-all.html = 1635397174951
+D:\duili\Documents\NetBeansProjects\POOP6ide\target\site\apidocs\index.html = 1635397174956
+D:\duili\Documents\NetBeansProjects\POOP6ide\target\site\apidocs\jquery-ui.overrides.css = 1635397175085
+D:\duili\Documents\NetBeansProjects\POOP6ide\target\site\apidocs\Main.html = 1635397174835
+D:\duili\Documents\NetBeansProjects\POOP6ide\target\site\apidocs\member-search-index.js = 1635397174928
+D:\duili\Documents\NetBeansProjects\POOP6ide\target\site\apidocs\module-search-index.js = 1635397174918
+D:\duili\Documents\NetBeansProjects\POOP6ide\target\site\apidocs\overview-tree.html = 1635397174888
+D:\duili\Documents\NetBeansProjects\POOP6ide\target\site\apidocs\package-search-index.js = 1635397174922
+D:\duili\Documents\NetBeansProjects\POOP6ide\target\site\apidocs\package-summary.html = 1635397174849
+D:\duili\Documents\NetBeansProjects\POOP6ide\target\site\apidocs\package-tree.html = 1635397174859
+D:\duili\Documents\NetBeansProjects\POOP6ide\target\site\apidocs\package-use.html = 1635397174882
+D:\duili\Documents\NetBeansProjects\POOP6ide\target\site\apidocs\script.js = 1635397174977
+D:\duili\Documents\NetBeansProjects\POOP6ide\target\site\apidocs\search.js = 1635397174983
+D:\duili\Documents\NetBeansProjects\POOP6ide\target\site\apidocs\stylesheet.css = 1635397174972
+D:\duili\Documents\NetBeansProjects\POOP6ide\target\site\apidocs\tag-search-index.js = 1635397174932
+D:\duili\Documents\NetBeansProjects\POOP6ide\target\site\apidocs\type-search-index.js = 1635397174925
